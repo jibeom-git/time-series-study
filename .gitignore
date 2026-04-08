@@ -1,11 +1,6 @@
-# Python-generated files
+.venv/
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-
-# Virtual environments
-.venv
-.venv/__pycache__/.ipynb_checkpoints/*.pycdata/raw/.env
+.ipynb_checkpoints/
+*.pyc
+data/raw/
+.env
